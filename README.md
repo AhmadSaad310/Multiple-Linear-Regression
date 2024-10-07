@@ -18,6 +18,6 @@ The dataset used for this project is available on Kaggle. You can access it from
 
 Here are the main libraries used in this project:
 
- **numpy,pandas,seaborn,plotly.express,matplotlib.pyplot,sklearn.linear_model,LinearRegression**
+ **{numpy , pandas , seaborn , plotly.express , matplotlib.pyplot , sklearn.linear_model , LinearRegression}**
 
 
